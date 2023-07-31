@@ -1,6 +1,6 @@
 # Laboratórios CloudSkillsBoost - Scripts para Badges de Reconhecimento
 
-![CloudSkillsBoost Logo](logo.png)
+![CloudSkillsBoost Logo](logo.jpg)
 
 Este repositório contém uma coleção de scripts que utilizei para conquistar badges de reconhecimento de aprendizado nos laboratórios do [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/4cdd30da-a446-4b28-a6f7-e5bfa7c8aa27). Esses scripts foram criados e otimizados durante meu percurso de aprendizado e podem ser úteis para outros estudantes e profissionais interessados em alcançar essas conquistas.
 
