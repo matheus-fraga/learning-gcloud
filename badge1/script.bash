@@ -1,4 +1,4 @@
-# Defina as variáveis de ambiente para sua região e zona
+# Defina as variáveis de ambiente para sua região e zona:
 export REGION=<sua_regiao>
 export ZONE=<sua_zona>
 
